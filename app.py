@@ -9,11 +9,11 @@ st.title("Dashboard Prediksi Revenue Game Steam 2024")
 
 st.write("UAS Big Data & Predictive Analytics")
 st.markdown("""
-#### Kelompok 4  
+#### Kelompok Big Data
 - Rizal Anggoro - 23.11.5498
 - Ahmad Nur Rofik - 23.11.5475
-- Andre Aditia - 21.11.3456  
-- Lingga Firmansyah - 21.11.4567
+- Andre Aditia - 23.11.5756  
+- Lingga Firmansyah - 23.11.5447
 """)
 
 
